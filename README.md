@@ -1,6 +1,6 @@
 lvl. 20 Game Developer
 - 📖 Major in Computer Science
-- 🖥️ Programming Beginner (Luau/Py/C/C++/Java)
+- 🖥️ Programming Beginner (Luau/Py/C/C++/Java/JS)
 
 <!---
 otamot0924/otamot0924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
