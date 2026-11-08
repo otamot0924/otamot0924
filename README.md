@@ -1,4 +1,4 @@
-lvl. 20 Game Developer
+Game Developer
 - 📖 Major in Computer Science
 - 🖥️ Programming Beginner (Luau/Py/C/C++/Java/JS)
 
